@@ -1,0 +1,2 @@
+# Taming-the-Market-Predicting-HCLTech-Stock-Prices-Using-TensorFlow-and-Bidirectional-LSTM
+Leveraged a Bidirectional LSTM on TensorFlow to predict HCLTech's stock prices for the next 30 days.  Unlike traditional LSTMs, Bidirectional LSTMs analyze data in both directions, making them powerful for time series forecasting. Analyzed data from Yahoo Finance &amp; visualized historical trends &amp; predicted future movement.
